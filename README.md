@@ -18,6 +18,6 @@ crewai-tools
 GEMINI_API_KEY=your_gemini_api_key
 
 ## File
-.env
-requrements.txt
+.env,
+requrements.txt,
 simpleaichatbot.py
